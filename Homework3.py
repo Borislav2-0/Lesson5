@@ -1,4 +1,5 @@
 my_string = input("Цитата Александра III: ")
+print(len(my_string))
 print(my_string)
 print(my_string.upper())
 print(my_string.lower())
